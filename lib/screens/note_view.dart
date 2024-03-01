@@ -4,7 +4,7 @@ import 'package:note_app/models/note_model.dart';
 class NoteView extends StatelessWidget {
   const NoteView({
     super.key,
-    required this.note,
+    required this.note, //check
     required this.index,
     required this.onNoteDeleted,
   });
@@ -46,7 +46,7 @@ class NoteView extends StatelessWidget {
                     );
                   });
             },
-            icon: Icon(Icons.delete),
+            icon: const Icon(Icons.delete),
           ),
         ],
       ),
