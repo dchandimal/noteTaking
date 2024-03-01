@@ -1,1 +1,1 @@
-# This is a basic note taking app
+# This note taking app willing to enhance in the future.
