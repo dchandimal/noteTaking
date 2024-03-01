@@ -1,1 +1,1 @@
-# This note taking app willing to enhance in the future.
+# This is a note taking app done with flutter and hope to add further features.
